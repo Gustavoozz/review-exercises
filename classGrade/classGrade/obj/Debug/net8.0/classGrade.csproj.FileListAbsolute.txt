@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\bin\Debug\net8.0\classGrade.exe
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\bin\Debug\net8.0\classGrade.deps.json
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\bin\Debug\net8.0\classGrade.runtimeconfig.json
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\bin\Debug\net8.0\classGrade.dll
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\bin\Debug\net8.0\classGrade.pdb
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\obj\Debug\net8.0\classGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\obj\Debug\net8.0\classGrade.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\obj\Debug\net8.0\classGrade.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\obj\Debug\net8.0\classGrade.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\obj\Debug\net8.0\classGrade.sourcelink.json
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\obj\Debug\net8.0\classGrade.dll
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\obj\Debug\net8.0\refint\classGrade.dll
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\obj\Debug\net8.0\classGrade.pdb
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\obj\Debug\net8.0\classGrade.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\review-exercises\forEach\classGrade\obj\Debug\net8.0\ref\classGrade.dll

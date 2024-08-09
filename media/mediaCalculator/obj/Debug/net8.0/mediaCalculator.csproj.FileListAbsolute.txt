@@ -1,0 +1,14 @@
+C:\Users\53844614893\Desktop\media\mediaCalculator\obj\Debug\net8.0\mediaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\media\mediaCalculator\obj\Debug\net8.0\mediaCalculator.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\media\mediaCalculator\obj\Debug\net8.0\mediaCalculator.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\media\mediaCalculator\obj\Debug\net8.0\mediaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\media\mediaCalculator\bin\Debug\net8.0\mediaCalculator.exe
+C:\Users\53844614893\Desktop\media\mediaCalculator\bin\Debug\net8.0\mediaCalculator.deps.json
+C:\Users\53844614893\Desktop\media\mediaCalculator\bin\Debug\net8.0\mediaCalculator.runtimeconfig.json
+C:\Users\53844614893\Desktop\media\mediaCalculator\bin\Debug\net8.0\mediaCalculator.dll
+C:\Users\53844614893\Desktop\media\mediaCalculator\bin\Debug\net8.0\mediaCalculator.pdb
+C:\Users\53844614893\Desktop\media\mediaCalculator\obj\Debug\net8.0\mediaCalculator.dll
+C:\Users\53844614893\Desktop\media\mediaCalculator\obj\Debug\net8.0\refint\mediaCalculator.dll
+C:\Users\53844614893\Desktop\media\mediaCalculator\obj\Debug\net8.0\mediaCalculator.pdb
+C:\Users\53844614893\Desktop\media\mediaCalculator\obj\Debug\net8.0\mediaCalculator.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\media\mediaCalculator\obj\Debug\net8.0\ref\mediaCalculator.dll

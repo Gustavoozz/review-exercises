@@ -1,0 +1,14 @@
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\bin\Debug\net8.0\guessTabuada.exe
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\bin\Debug\net8.0\guessTabuada.deps.json
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\bin\Debug\net8.0\guessTabuada.runtimeconfig.json
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\bin\Debug\net8.0\guessTabuada.dll
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\bin\Debug\net8.0\guessTabuada.pdb
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\obj\Debug\net8.0\guessTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\obj\Debug\net8.0\guessTabuada.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\obj\Debug\net8.0\guessTabuada.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\obj\Debug\net8.0\guessTabuada.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\obj\Debug\net8.0\guessTabuada.dll
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\obj\Debug\net8.0\refint\guessTabuada.dll
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\obj\Debug\net8.0\guessTabuada.pdb
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\obj\Debug\net8.0\guessTabuada.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\tabuada\guessTabuada\obj\Debug\net8.0\ref\guessTabuada.dll

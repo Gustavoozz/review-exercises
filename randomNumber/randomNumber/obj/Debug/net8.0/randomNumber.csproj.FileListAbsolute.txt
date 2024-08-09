@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\bin\Debug\net8.0\randomNumber.exe
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\bin\Debug\net8.0\randomNumber.deps.json
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\bin\Debug\net8.0\randomNumber.runtimeconfig.json
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\bin\Debug\net8.0\randomNumber.dll
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\bin\Debug\net8.0\randomNumber.pdb
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\obj\Debug\net8.0\randomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\obj\Debug\net8.0\randomNumber.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\obj\Debug\net8.0\randomNumber.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\obj\Debug\net8.0\randomNumber.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\obj\Debug\net8.0\randomNumber.sourcelink.json
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\obj\Debug\net8.0\randomNumber.dll
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\obj\Debug\net8.0\refint\randomNumber.dll
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\obj\Debug\net8.0\randomNumber.pdb
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\obj\Debug\net8.0\randomNumber.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\review-exercises\random\randomNumber\obj\Debug\net8.0\ref\randomNumber.dll

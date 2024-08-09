@@ -1,0 +1,15 @@
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\bin\Debug\net8.0\somarNumeroPar.exe
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\bin\Debug\net8.0\somarNumeroPar.deps.json
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\bin\Debug\net8.0\somarNumeroPar.runtimeconfig.json
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\bin\Debug\net8.0\somarNumeroPar.dll
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\bin\Debug\net8.0\somarNumeroPar.pdb
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\obj\Debug\net8.0\somarNumeroPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\obj\Debug\net8.0\somarNumeroPar.AssemblyInfoInputs.cache
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\obj\Debug\net8.0\somarNumeroPar.AssemblyInfo.cs
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\obj\Debug\net8.0\somarNumeroPar.csproj.CoreCompileInputs.cache
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\obj\Debug\net8.0\somarNumeroPar.sourcelink.json
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\obj\Debug\net8.0\somarNumeroPar.dll
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\obj\Debug\net8.0\refint\somarNumeroPar.dll
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\obj\Debug\net8.0\somarNumeroPar.pdb
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\obj\Debug\net8.0\somarNumeroPar.genruntimeconfig.cache
+C:\Users\53844614893\Desktop\review-exercises\parSomar\somarNumeroPar\obj\Debug\net8.0\ref\somarNumeroPar.dll
